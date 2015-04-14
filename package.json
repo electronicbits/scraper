@@ -1,0 +1,12 @@
+{
+  "name": "scrape",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "phantom": "^0.7.2",
+    "restify": "^3.0.1"
+  }
+}
