@@ -1,2 +1,2 @@
 # scraper
-A small web scraper framework using Nodejs, Phantomjs and jquery
+A small web scraper application that uses Nodejs, Phantomjs and jquery to extract information from web pages.
